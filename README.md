@@ -2,6 +2,8 @@
 
 **Советую YouTube Morphe** — сильно улучшенную версию YouTube без рекламы, со всеми возможностями Premium и огромным набором тонких настроек.
 
+![Превью интерфейса плеера YouTube Morphe](assets/preview.jpg)
+
 Раньше проект был частью ReVanced, но часть ключевых разработчиков (`inotia00`, `LisoUseInAIKyrios` и другие) отделились и запустили новый проект — [Morphe](https://morphe.software/).
 
 ## Главные фишки YouTube Morphe
